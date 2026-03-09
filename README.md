@@ -1,7 +1,13 @@
 # 📊 DollarMart Sales-Analysis
 
-### Project Overview
-This Project analyzes sales data from DollarMart Retail Group to help stakeholders understand key metrics such as total revenue, product performance, customer behaviour and regional sales trend.
+### 📙 Project Overview
+ DollarMart Retail Group is a growing supermrket chain that sells variety of products including groceries,   electronics, clothin, home appliances, and sports equipmetn across multiple regions
+ 
+ As the company expanded management found it dificult to quickly understand overall sales performance, customer behaviour and prodcut demand using their raw transactional data.
+
+ >To support better decision making, the management team requested for an interactive sales dashboard that could  >provide clear insights into revenue trends, top-performing products, customer segment and regional performance.
+ 
+ >The final 📉 dashboard allows users to filter result by year and region while providing insight into revenue    >trends, customer contribution and product performance.
 
 ### Tools and Techniques
 * Microsoft excel
@@ -69,7 +75,16 @@ This Project analyzes sales data from DollarMart Retail Group to help stakeholde
 
 ### Recommendations
 1. Expand High-Performing Categories
->Increase in
+>Increase inventory and promotions on Sports and Home appliances products so as to capitalize on their strong >revenue contribution.
+
+2. Introduce loyalty programs or tergeted offers for the top 5 customers and other high-spending segments.
+
+3. Improve North Region Sales
+>Investigate factors affecting the North region's lower performace and introduce lacalized marketing
+>strategies.
+
+4. Focus marketing campaigns on customers ages 19-56, who represent the largest revenuer contributors.
+
 
 
   
