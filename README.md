@@ -1,4 +1,4 @@
-# 📊 DollarMart Sales-Analysis
+# 📊 DollarMart Sales Performance Analysis
 
 ### 📙 Project Overview
  DollarMart Retail Group is a growing supermrket chain that sells variety of products including groceries,   electronics, clothin, home appliances, and sports equipmetn across multiple regions
