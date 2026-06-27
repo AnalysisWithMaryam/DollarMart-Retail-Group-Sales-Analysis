@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [Project Overview](#project-overview)
-* [Tools & Techniques](#tools-techniques)
+* [Tools & Techniques](#tools--techniques)
 * [Dataset Overview](#dataset-overview)
 * [Data Cleaning Process](#data-cleaning-process)
 * [Dashboard KPIs](#dashboard-kpis)
