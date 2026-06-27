@@ -3,14 +3,14 @@
 
 
 ## Table of contents
-* [Project Overview](Project-Overview)
-* [Tools & Techniques](Tools--Techniques)
-* [Dataset Overview](Dataset-Overview)
-* Data Cleaning Process 
-* Dashboard KPIs
-* Excel Dashboard
-* Key Insights
-* Recommendations
+* [Project Overview](#project-overview)
+* [Tools & Techniques](#tools-techniques)
+* [Dataset Overview](#dataset-overview)
+* [Data Cleaning Process](#data-cleaning-process)
+* [Dashboard KPIs](#dashboard-kpis)
+* [Excel Dashboard](#excel-dashboard)
+* [Key Insight](#key-insight)
+* [Recommendations](#recommendations)
 
 ### 📙 Project Overview
  DollarMart Retail Group is a growing supermrket chain that sells variety of products including groceries,   electronics, clothin, home appliances, and sports equipmetn across multiple regions
