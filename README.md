@@ -1,5 +1,16 @@
 # 📊 DollarMart Sales Performance Analysis
- Excel Project -  Reatila sales data - From raw data to business insights
+ Excel Project -  Retail sales data - From raw data to business insight
+
+
+## Table of contents
+* [Project Overview](Project-Overview)
+* [Tools & Techniques](Tools--Techniques)
+* [Dataset Overview](Dataset-Overview)
+* Data Cleaning Process
+* Dashboard KPIs
+* Excel Dashboard
+* Key Insights
+* Recommendations
 
 ### 📙 Project Overview
  DollarMart Retail Group is a growing supermrket chain that sells variety of products including groceries,   electronics, clothin, home appliances, and sports equipmetn across multiple regions
